@@ -27,8 +27,8 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la UPTC. Me apasiona
  
 ## 📚 Educación
  
-- 🎓 **Ingeniería de Sistemas y Computación** — UPTC (En curso)*
-- 📄 **Técnico en Sistemas** — SENA*
+- 🎓 **Ingeniería de Sistemas y Computación** — UPTC (En curso)
+- 📄 **Técnico en Sistemas** — SENA
 ---
  
 ## 📬 Contacto
