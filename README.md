@@ -25,36 +25,6 @@ Estudiante de **Ingeniería de Sistemas y Computación** en la UPTC. Me apasiona
  
 ---
  
-## 🚀 Proyectos destacados
- 
-### [State Transition Simulator](https://github.com/Diegosch1/State-Transition-Simulator)
-> Simulador web interactivo del ciclo de vida de procesos y manejo de memoria en sistemas operativos.
- 
-`React` `TypeScript` `Vite` `Jest`
- 
-- Visualización de diagramas de estados con ejecución paso a paso
-- Simulación de paginación y monitoreo de uso de memoria
-- Generación de reportes estadísticos del comportamiento de procesos
----
- 
-### [Traffic Simulation Project](https://github.com/fabiancorrea27/traffic_simulation_project)
-> Simulador visual del comportamiento del tráfico en intersecciones semaforizadas.
- 
-`Python` `Pygame` `NetworkX` `Matplotlib`
- 
-- Análisis del impacto de los tiempos semafóricos sobre la congestión vehicular
-- Visualización interactiva en tiempo real
----
- 
-### [API REST - Gestión Académica](https://github.com/fabiancorrea27/prog3-api-rest)
-> API REST para gestión de grupos, asignaturas y horarios académicos.
- 
-`Java` `Spring Boot` `Lombok` `Maven`
- 
-- Arquitectura backend con manejo estructurado de endpoints REST
-- Persistencia y organización de datos académicos
----
- 
 ## 📚 Educación
  
 - 🎓 **Ingeniería de Sistemas y Computación** — UPTC (En curso)*
